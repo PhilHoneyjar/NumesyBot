@@ -1,0 +1,1 @@
+Numesy is a simple calculator bot for Telegram.
